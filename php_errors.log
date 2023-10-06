@@ -1,0 +1,388 @@
+[08-Sep-2023 16:44:48 Europe/Berlin] PHP Warning:  Undefined array key "name" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 9
+[08-Sep-2023 16:44:48 Europe/Berlin] PHP Warning:  Undefined array key "customer-segment" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 10
+[08-Sep-2023 16:44:48 Europe/Berlin] PHP Warning:  Undefined array key "national-id" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 11
+[08-Sep-2023 16:44:48 Europe/Berlin] PHP Warning:  Undefined array key "mobile-number" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 12
+[08-Sep-2023 16:44:48 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 13
+[08-Sep-2023 16:44:48 Europe/Berlin] PHP Warning:  Undefined array key "date" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 14
+[08-Sep-2023 16:44:48 Europe/Berlin] PHP Warning:  Undefined array key "meeting-time" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 15
+[08-Sep-2023 16:44:54 Europe/Berlin] PHP Warning:  Undefined array key "name" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 9
+[08-Sep-2023 16:44:54 Europe/Berlin] PHP Warning:  Undefined array key "customer-segment" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 10
+[08-Sep-2023 16:44:54 Europe/Berlin] PHP Warning:  Undefined array key "national-id" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 11
+[08-Sep-2023 16:44:54 Europe/Berlin] PHP Warning:  Undefined array key "mobile-number" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 12
+[08-Sep-2023 16:44:54 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 13
+[08-Sep-2023 16:44:54 Europe/Berlin] PHP Warning:  Undefined array key "date" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 14
+[08-Sep-2023 16:44:54 Europe/Berlin] PHP Warning:  Undefined array key "meeting-time" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 15
+[08-Sep-2023 16:48:18 Europe/Berlin] PHP Warning:  Undefined array key "name" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 9
+[08-Sep-2023 16:48:18 Europe/Berlin] PHP Warning:  Undefined array key "customer-segment" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 10
+[08-Sep-2023 16:48:18 Europe/Berlin] PHP Warning:  Undefined array key "national-id" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 11
+[08-Sep-2023 16:48:18 Europe/Berlin] PHP Warning:  Undefined array key "mobile-number" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 12
+[08-Sep-2023 16:48:18 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 13
+[08-Sep-2023 16:48:18 Europe/Berlin] PHP Warning:  Undefined array key "date" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 14
+[08-Sep-2023 16:48:18 Europe/Berlin] PHP Warning:  Undefined array key "meeting-time" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 15
+[08-Sep-2023 16:52:38 Europe/Berlin] PHP Warning:  Undefined array key "name" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 9
+[08-Sep-2023 16:52:38 Europe/Berlin] PHP Warning:  Undefined array key "customer-segment" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 10
+[08-Sep-2023 16:52:38 Europe/Berlin] PHP Warning:  Undefined array key "national-id" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 11
+[08-Sep-2023 16:52:38 Europe/Berlin] PHP Warning:  Undefined array key "mobile-number" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 12
+[08-Sep-2023 16:52:38 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 13
+[08-Sep-2023 16:52:38 Europe/Berlin] PHP Warning:  Undefined array key "date" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 14
+[08-Sep-2023 16:52:38 Europe/Berlin] PHP Warning:  Undefined array key "meeting-time" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 15
+[08-Sep-2023 16:57:58 Europe/Berlin] PHP Warning:  Undefined array key "name" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 9
+[08-Sep-2023 16:57:58 Europe/Berlin] PHP Warning:  Undefined array key "customer-segment" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 10
+[08-Sep-2023 16:57:58 Europe/Berlin] PHP Warning:  Undefined array key "national-id" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 11
+[08-Sep-2023 16:57:58 Europe/Berlin] PHP Warning:  Undefined array key "mobile-number" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 12
+[08-Sep-2023 16:57:58 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 13
+[08-Sep-2023 16:57:58 Europe/Berlin] PHP Warning:  Undefined array key "date" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 14
+[08-Sep-2023 16:57:58 Europe/Berlin] PHP Warning:  Undefined array key "meeting-time" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 15
+[08-Sep-2023 17:02:02 Europe/Berlin] PHP Warning:  Undefined array key "name" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 9
+[08-Sep-2023 17:02:02 Europe/Berlin] PHP Warning:  Undefined array key "customer-segment" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 10
+[08-Sep-2023 17:02:02 Europe/Berlin] PHP Warning:  Undefined array key "national-id" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 11
+[08-Sep-2023 17:02:02 Europe/Berlin] PHP Warning:  Undefined array key "mobile-number" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 12
+[08-Sep-2023 17:02:02 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 13
+[08-Sep-2023 17:02:02 Europe/Berlin] PHP Warning:  Undefined array key "date" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 14
+[08-Sep-2023 17:02:02 Europe/Berlin] PHP Warning:  Undefined array key "meeting-time" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 15
+[08-Sep-2023 17:03:35 Europe/Berlin] PHP Warning:  Undefined array key "name" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 9
+[08-Sep-2023 17:03:35 Europe/Berlin] PHP Warning:  Undefined array key "customer-segment" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 10
+[08-Sep-2023 17:03:35 Europe/Berlin] PHP Warning:  Undefined array key "national-id" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 11
+[08-Sep-2023 17:03:35 Europe/Berlin] PHP Warning:  Undefined array key "mobile-number" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 12
+[08-Sep-2023 17:03:35 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 13
+[08-Sep-2023 17:03:35 Europe/Berlin] PHP Warning:  Undefined array key "date" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 14
+[08-Sep-2023 17:03:35 Europe/Berlin] PHP Warning:  Undefined array key "meeting-time" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 15
+[08-Sep-2023 17:06:36 Europe/Berlin] PHP Warning:  Undefined array key "name" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 9
+[08-Sep-2023 17:06:36 Europe/Berlin] PHP Warning:  Undefined array key "customer-segment" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 10
+[08-Sep-2023 17:06:36 Europe/Berlin] PHP Warning:  Undefined array key "national-id" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 11
+[08-Sep-2023 17:06:36 Europe/Berlin] PHP Warning:  Undefined array key "mobile-number" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 12
+[08-Sep-2023 17:06:36 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 13
+[08-Sep-2023 17:06:36 Europe/Berlin] PHP Warning:  Undefined array key "date" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 14
+[08-Sep-2023 17:06:36 Europe/Berlin] PHP Warning:  Undefined array key "meeting-time" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 15
+[08-Sep-2023 17:11:26 Europe/Berlin] PHP Warning:  Undefined array key "name" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 9
+[08-Sep-2023 17:11:26 Europe/Berlin] PHP Warning:  Undefined array key "customer-segment" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 10
+[08-Sep-2023 17:11:26 Europe/Berlin] PHP Warning:  Undefined array key "national-id" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 11
+[08-Sep-2023 17:11:26 Europe/Berlin] PHP Warning:  Undefined array key "mobile-number" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 12
+[08-Sep-2023 17:11:26 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 13
+[08-Sep-2023 17:11:26 Europe/Berlin] PHP Warning:  Undefined array key "date" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 14
+[08-Sep-2023 17:11:26 Europe/Berlin] PHP Warning:  Undefined array key "meeting-time" in C:\xampp\htdocs\NBE_FrontEnd\database.php on line 15
+[22-Sep-2023 20:12:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:12:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:13:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:13:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:13:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:13:05 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:13:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:13:10 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:13:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[22-Sep-2023 20:13:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'nbe' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:18
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(18): mysqli_select_db(Object(mysqli), 'nbe')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 18
+[27-Sep-2023 13:31:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:31:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:23 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 13:32:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 14:16:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 14:16:29 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 14:16:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 14:27:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 14:27:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
+[27-Sep-2023 14:39:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meeeting_tim' in 'field list' in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php:21
+Stack trace:
+#0 F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php(21): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 {main}
+  thrown in F:\Softwares\Software Development Utilities\Xampp\htdocs\NBE_FrontEnd\database.php on line 21
